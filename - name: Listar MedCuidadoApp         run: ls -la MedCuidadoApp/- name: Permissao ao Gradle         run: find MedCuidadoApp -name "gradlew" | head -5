@@ -1,4 +1,4 @@
-name: Criar APK do MedCuidado
+Criar APK do MedCuidado
 
 on: [push]
 
